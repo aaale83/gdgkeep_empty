@@ -1,4 +1,4 @@
-# GDGKeep
+# GDGKeep Empty
 
 ## Iniziamo
 
